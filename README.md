@@ -7,7 +7,7 @@
 
 - 🔭 Em busca da minha primeira oportunidade 
 
-- 💬 Tenho conhecimento sobre **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Tenho conhecimento sobre **JavaScript, HTML, CSS, SQL, Node.JS e React.js**
 
 <!--
 - 👨‍💻 
